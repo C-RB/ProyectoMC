@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class BuscarNumero {
     public static void main(String[] args) {
 
+        // PRBANDO COSITAS NUEVAS....:[
+
         int [] arr = new int [10];
         Scanner teclado = new Scanner(System.in);
 
