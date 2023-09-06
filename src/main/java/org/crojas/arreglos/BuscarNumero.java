@@ -7,6 +7,8 @@ public class BuscarNumero {
 
         // PRBANDO COSITAS NUEVAS....:[
 
+        int numero;
+
         int [] arr = new int [10];
         Scanner teclado = new Scanner(System.in);
 
